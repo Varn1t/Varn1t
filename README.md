@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Varnit0207
-- 👀 I’m interested in coding stuff you or anyone want me to code.
-- 🌱 I’m currently learning python but if I am interested in any other programming language then I can learn that efficiently too.
+- 👋 Hi, I’m Varnit
+- 👀 I love programming. 
+- 🌱 I currently know Python, HTML, CSS, JS, C, C++.
+- I am learning: MERN, Lua and React.
 - 📫 You can contact me on github.
 - Thanks for checking my profile. <3
-- See ya soon. = )
+- See ya soon ;0)
 
