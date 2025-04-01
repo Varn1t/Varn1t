@@ -4,5 +4,5 @@
 - I am learning: AI and ML.
 - 📫 You can contact me on github.
 - Thanks for checking my profile. <3
-- See ya soon ;0)
+- See ya soon!
 
