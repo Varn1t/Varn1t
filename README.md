@@ -1,4 +1,4 @@
-
+![](https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=header)
 # 💫 About Me:<br>
 🔭 Currently building things that actually work: predictive models, agentic AI pipelines, real-time systems, and the occasional "why does this work?" project<br><br>👯 Down to collaborate on AI/ML projects, hackathons, or anything where data meets a real problem worth solving<br><br>🤝Interested in learning from and working with people in advanced Machine Learning, Deep Learning, MLOps, and scalable AI systems<br><br>🌱 Deep in the ML rabbit hole right now:  model tuning, deep learning, and figuring out how to make agents that don't hallucinate every other sentence<br><br>💬 Hit me up about Python, ML pipelines, RAG systems, LangChain, data cleaning, or just bouncing around project ideas<br><br>⚡ Fun fact:  I've built a 9-agent EDA pipeline, a RAG chatbot with zero API cost, and a traffic system that actually predicts congestion, still not satisfied 🚀
 
@@ -11,4 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Varn1t&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub User's stars](https://img.shields.io/github/stars/Varn1t?style=for-the-badge&theme=midnight-purple&labelColor=000000&color=7B2FBE)
 ![snake](https://github.com/Varn1t/Varn1t/blob/output/github-contribution-grid-snake-dark.svg)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B2FBE&width=435&lines=ML+Engineer+in+the+making;Building+things+that+actually+work;9-agent+pipelines+%26+zero+API+cost)
+![](https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=footer)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
