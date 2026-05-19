@@ -11,6 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Varn1t&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub User's stars](https://img.shields.io/github/stars/Varn1t?style=for-the-badge&theme=midnight-purple&labelColor=000000&color=7B2FBE)
 ![snake](https://github.com/Varn1t/Varn1t/blob/output/github-contribution-grid-snake-dark.svg)
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B2FBE&width=435&lines=ML+Engineer+in+the+making;Building+things+that+actually+work;9-agent+pipelines+%26+zero+API+cost)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B2FBE&width=435&lines=AIML+Engineer+in+the+making;Building+things+that+actually+work;9-agent+pipelines+%26+zero+API+cost;A+traffic+system+that+actualy+predicts+congestion)
 ![](https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=footer)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
