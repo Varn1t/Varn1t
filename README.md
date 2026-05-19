@@ -9,5 +9,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=Varn1t&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Varn1t&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Varn1t&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://komarev.com/ghpvc/?username=Varn1t&color=blueviolet&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/Varn1t?style=for-the-badge&theme=midnight-purple&labelColor=000000&color=7B2FBE)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
