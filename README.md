@@ -2,9 +2,6 @@
 # 💫 About Me:<br>
 🔭 Currently building things that actually work: predictive models, agentic AI pipelines, real-time systems, and the occasional "why does this work?" project<br><br>👯 Down to collaborate on AI/ML projects, hackathons, or anything where data meets a real problem worth solving<br><br>🤝Interested in learning from and working with people in advanced Machine Learning, Deep Learning, MLOps, and scalable AI systems<br><br>🌱 Deep in the ML rabbit hole right now:  model tuning, deep learning, and figuring out how to make agents that don't hallucinate every other sentence<br><br>💬 Hit me up about Python, ML pipelines, RAG systems, LangChain, data cleaning, or just bouncing around project ideas<br><br>⚡ Fun fact:  I've built a 9-agent EDA pipeline, a RAG chatbot with zero API cost, and a traffic system that actually predicts congestion, still not satisfied 🚀
 
-
-![](https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=header)
-
 # 💻 Tech Stack
 
 ### 🧠 Languages
@@ -72,7 +69,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-![](https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=footer)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Varn1t&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Varn1t&theme=midnight-purple&hide_border=false)<br/>
