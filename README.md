@@ -19,7 +19,7 @@ Real-time traffic intelligence system using **YOLOv8** for vehicle detection (92
 9-agent EDA pipeline built with **LangGraph** that automates exploratory data analysis — 80% time reduction, 15+ visualisations, supports 100k+ row datasets.
 `LangGraph` `LangChain` `Pandas` `Matplotlib`
 
-### 📚 [RAG Chatbot](https://github.com/Varn1t/RAG-Chatbot)
+### 📚 [ContextFlow](https://github.com/Varn1t/RAG-Chatbot)
 Zero API-cost RAG chatbot with PDF and YouTube ingestion, **FAISS** vector search, **MiniLM** embeddings, and configurable chunk/overlap/top-K sliders via Streamlit.
 `LangChain` `FAISS` `Ollama` `Streamlit`
 
