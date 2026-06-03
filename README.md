@@ -23,7 +23,7 @@ Real-time traffic intelligence system using **YOLOv8** for vehicle detection (92
 Zero API-cost RAG chatbot with PDF and YouTube ingestion, **FAISS** vector search, **MiniLM** embeddings, and configurable chunk/overlap/top-K sliders via Streamlit.
 `LangChain` `FAISS` `Ollama` `Streamlit`
 
-### 🎬 [CineMatch](https://github.com/Varn1t/CineMatch---Movie-Recommender)
+ 🎬 [CineMatch](https://github.com/Varn1t/CineMatch---Movie-Recommender)
 Hybrid movie recommender combining SVD matrix factorization and TF-IDF genre similarity on MovieLens Latest Small (9,700 movies). RMSE 0.871, Precision@10 55.8%, Recall@10 66.2%. Interactive Streamlit dashboard with latent factor visualizer, α sensitivity heatmap, and user similarity explorer. 
 `SVD` `TF-IDF` `Scikit-surprise` `Streamlit` `Plotly`
 ---
