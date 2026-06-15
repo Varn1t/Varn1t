@@ -8,23 +8,28 @@
 # 🚀 Featured Projects
 
 ### 🌤️ [SkyFlow-MLOps](https://github.com/Varn1t/SkyFlow-MLOps)
-End-to-end agentic ML pipeline predicting next-day rainfall for New Delhi using live Open-Meteo API data. Orchestrated with **Apache Airflow**, tracked with **MLflow** (AUC 0.91, F1 0.66), gated by a **LangGraph + Ollama (Llama 3.2)** agent that reasons about deployment readiness, and served via **FastAPI**. Fully containerised — runs with a single `docker compose up`.
+End-to-end agentic ML pipeline predicting next-day rainfall for New Delhi using live Open-Meteo API data. Orchestrated with **Apache Airflow**, tracked with **MLflow** (AUC 0.91, F1 0.66), gated by a **LangGraph + Ollama (Llama 3.2)** agent that reasons about deployment readiness, and served via **FastAPI**. Fully containerised — runs with a single `docker compose up`. 
+
 `Airflow` `MLflow` `LangGraph` `Ollama` `Docker` `FastAPI` `Scikit-learn`
 
 ### 🚦 [TraffiQ](https://github.com/Varn1t/TraffiQ)
 Real-time traffic intelligence system using **YOLOv8** for vehicle detection (92%+ accuracy), live signal timing optimisation (25% improvement), and a Flask dashboard with live control sliders. R²=0.89 on congestion prediction.
+
 `YOLOv8` `Flask` `OpenCV` `Chart.js`
 
 ### 🤖 [EDAgent](https://github.com/Varn1t/EDAgent)
 9-agent EDA pipeline built with **LangGraph** that automates exploratory data analysis — 80% time reduction, 15+ visualisations, supports 100k+ row datasets.
+
 `LangGraph` `LangChain` `Pandas` `Matplotlib`
 
 ### 📚 [LoreLoop](https://github.com/Varn1t/LoreLoop)
 Zero API-cost RAG chatbot with PDF and YouTube ingestion, **FAISS** vector search, **MiniLM** embeddings, and configurable chunk/overlap/top-K sliders via Streamlit.
+
 `LangChain` `FAISS` `Ollama` `Streamlit`
 
 ### 🎬 [CineMatch](https://github.com/Varn1t/CineMatch---Movie-Recommender)
 Hybrid movie recommender combining SVD matrix factorization and TF-IDF genre similarity on MovieLens Latest Small (9,700 movies). RMSE 0.871, Precision@10 55.8%, Recall@10 66.2%. Interactive Streamlit dashboard with latent factor visualizer, α sensitivity heatmap, and user similarity explorer.
+
 `SVD` `TF-IDF` `Scikit-surprise` `Streamlit` `Plotly`
 
 ---
