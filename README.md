@@ -18,7 +18,7 @@ Real-time traffic intelligence system using **YOLOv8** for vehicle detection (92
 `YOLOv8` `Flask` `OpenCV` `Chart.js`
 
 ### 🤖 [EDAgent](https://github.com/Varn1t/EDAgent)
-9-agent EDA pipeline built with **LangGraph** that automates exploratory data analysis — 80% time reduction, 15+ visualisations, supports 100k+ row datasets.
+10-agent EDA pipeline built with **LangGraph** that automates exploratory data analysis — 80% time reduction, 15+ visualisations, supports 100k+ row datasets.
 
 `LangGraph` `LangChain` `Pandas` `Matplotlib`
 
