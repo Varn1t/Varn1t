@@ -1,7 +1,17 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=header)
 
 # 💫 About Me:
-🔭 Currently building things that actually work: agentic ML pipelines, real-time CV systems, RAG chatbots, and the occasional "why does this even work?" project<br><br>👯 Down to collaborate on AI/ML projects, hackathons, or anything where data meets a real problem worth solving<br><br>🤝 Interested in learning from and working with people in advanced Machine Learning, MLOps, Deep Learning, and scalable AI systems<br><br>🔎 Deep in the MLOps rabbit hole right now: containerised pipelines, agentic deploy-gating, experiment tracking, and figuring out how to make agents that don't hallucinate every other sentence<br><br>💬 Hit me up about Python, ML pipelines, RAG systems, LangGraph, LangChain, data cleaning, or just bouncing around project ideas<br><br>⚡ Fun fact: I've built a 10-agent EDA pipeline, a RAG chatbot with zero API cost, a traffic system that actually predicts congestion, and a fully containerised agentic MLOps pipeline — still not satisfied 🚀
+🔭 AIML Intern at ITG Telematics, working on computer vision and document AI<br><br>👯 Down to collaborate on AI/ML projects, hackathons, or anything where data meets a real problem worth solving<br><br>🤝 Interested in learning from and working with people in advanced Machine Learning, MLOps, Deep Learning, and scalable AI systems<br><br>🔎 Deep in production computer vision and document AI right now: object tracking, OCR and vision-language models, and document Q&A that doesn't hallucinate every other sentence<br><br>💬 Hit me up about Python, ML pipelines, RAG systems, LangGraph, LangChain, computer vision, object detection & tracking, OCR, data cleaning, or just bouncing around project ideas<br><br>⚡ Fun fact: I've built a 10-agent EDA pipeline, a RAG chatbot with zero API cost, a traffic system that actually predicts congestion, and a fully containerised agentic MLOps pipeline — still not satisfied 🚀
+
+[![Portfolio](https://img.shields.io/badge/portfolio-7B2FBE?style=for-the-badge&logo=About.me&logoColor=white)](https://varn1t.github.io/)
+
+---
+
+# 💼 Experience
+
+### AIML Intern · ITG Telematics · Aug 2026 – present
+- **Computer vision:** object detection and tracking on video
+- **Document AI:** OCR and vision-language models for pulling information out of documents
 
 ---
 
@@ -43,6 +53,8 @@ Hybrid movie recommender combining SVD matrix factorization and TF-IDF genre sim
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 
 ---
 
@@ -60,6 +72,10 @@ Hybrid movie recommender combining SVD matrix factorization and TF-IDF genre sim
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-3B4C9B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 
 ---
 
@@ -76,6 +92,8 @@ Hybrid movie recommender combining SVD matrix factorization and TF-IDF genre sim
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 ---
 
@@ -83,6 +101,7 @@ Hybrid movie recommender combining SVD matrix factorization and TF-IDF genre sim
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
@@ -91,8 +110,12 @@ Hybrid movie recommender combining SVD matrix factorization and TF-IDF genre sim
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
 ---
 
@@ -101,13 +124,15 @@ Hybrid movie recommender combining SVD matrix factorization and TF-IDF genre sim
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Varn1t&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Varn1t&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Varn1t&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Varn1t&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Varn1t&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ![GitHub User's stars](https://img.shields.io/github/stars/Varn1t?style=for-the-badge&theme=midnight-purple&labelColor=000000&color=7B2FBE)
 ![snake](https://github.com/Varn1t/Varn1t/blob/output/github-contribution-grid-snake-dark.svg)
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B2FBE&width=435&lines=AIML+Engineer+in+the+making;Agentic+MLOps+pipelines+%26+zero+API+cost;YOLOv8+traffic+systems+%26+LangGraph+agents;Building+things+that+actually+work)
