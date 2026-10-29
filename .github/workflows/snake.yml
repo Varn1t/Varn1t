@@ -21,9 +21,11 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # stats card counted with the owner's token, so private-repo PRs count; keeps the last card if the token is missing
+      # (dist/ is root-owned after snk, hence /tmp and sudo cp)
       - run: |
-          curl -sfL https://raw.githubusercontent.com/Varn1t/Varn1t/output/github-stats.svg -o dist/github-stats.svg || true
-          if [ -n "$STATS_TOKEN" ]; then python .github/scripts/stats_card.py dist/github-stats.svg; fi
+          curl -sfL https://raw.githubusercontent.com/Varn1t/Varn1t/output/github-stats.svg -o /tmp/github-stats.svg || true
+          if [ -n "$STATS_TOKEN" ]; then python .github/scripts/stats_card.py /tmp/github-stats.svg; fi
+          if [ -f /tmp/github-stats.svg ]; then sudo cp /tmp/github-stats.svg dist/; fi
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
