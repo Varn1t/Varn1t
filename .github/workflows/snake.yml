@@ -8,13 +8,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: Varn1t
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # stats card counted with the owner's token, so private-repo PRs count; keeps the last card if the token is missing
+      - run: |
+          curl -sfL https://raw.githubusercontent.com/Varn1t/Varn1t/output/github-stats.svg -o dist/github-stats.svg || true
+          if [ -n "$STATS_TOKEN" ]; then python .github/scripts/stats_card.py dist/github-stats.svg; fi
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
