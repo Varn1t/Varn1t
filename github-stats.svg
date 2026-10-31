@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195">
+<style>.h{font:600 18px 'Segoe UI',Ubuntu,sans-serif;fill:#9745f5}.t{font:600 14px 'Segoe UI',Ubuntu,sans-serif;fill:#fff}.b{font-weight:700}</style>
+<rect x="0.5" y="0.5" width="466" height="194" rx="4.5" fill="#000" stroke="#e4e2e2"/>
+<text x="25" y="35" class="h">Varnit's GitHub Stats</text><text x="25" y="80" class="t">Total Stars Earned:</text><text x="245" y="80" class="t b">110</text><text x="25" y="105" class="t">Total Commits (last year):</text><text x="245" y="105" class="t b">262</text><text x="25" y="130" class="t">Total PRs:</text><text x="245" y="130" class="t b">32</text><text x="25" y="155" class="t">Total Issues:</text><text x="245" y="155" class="t b">0</text><text x="25" y="180" class="t">Contributed to:</text><text x="245" y="180" class="t b">16</text>
+</svg>
