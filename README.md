@@ -17,6 +17,11 @@
 
 # 🚀 Featured Projects
 
+### ⚖️ [AyurLex](https://github.com/Varn1t/AyurLex)
+Citation-grounded RAG assistant for Indian IP and AYUSH regulatory law over 3,491 provisions from 35 statutes, paired with a deterministic compliance compiler answering in ~30ms with no LLM in that path. Hybrid BM25 + dense retrieval hits 81% recall@5; runs fully local on Ollama, answers in 11 Indian languages.
+
+`Python` `RAG` `Ollama` `FastAPI` `BM25` `Knowledge Graph` `Docker`
+
 ### 🌤️ [SkyFlow-MLOps](https://github.com/Varn1t/SkyFlow-MLOps)
 End-to-end agentic ML pipeline predicting next-day rainfall for New Delhi using live Open-Meteo API data. Orchestrated with **Apache Airflow**, tracked with **MLflow** (AUC 0.91, F1 0.66), gated by a **LangGraph + Ollama (Llama 3.2)** agent that reasons about deployment readiness, and served via **FastAPI**. Fully containerised — runs with a single `docker compose up`. 
 
